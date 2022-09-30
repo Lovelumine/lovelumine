@@ -45,10 +45,10 @@ export class example extends plugin {
     /** 接口结果，json字符串转对象 */
     res = await res.json()
     /** 输入日志 */
-    logger.info(`[接口结果] ao3镜像：${res.ao3}`)
+    logger.info(`[接口结果] ao3镜像：${res.address}`)
 
     /** 最后回复消息 */
-    await this.reply(`ao3镜像：${res.ao3}`)
+    await this.reply(`ao3镜像：${res.address}`)
   }
 }
 
