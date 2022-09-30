@@ -1,6 +1,6 @@
 ### Hi there 👋
-这是一个开发中的基于Yunzai-Bot的AO3看文插件
-目前已实现功能：
+这是一个开发中的基于Yunzai-Bot的AO3看文插件</br>
+目前已实现功能：</br>
 #AO3镜像 查看大陆可用的AO3镜像
 <!--
 **Lovelumine/lovelumine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
